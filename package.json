@@ -1,0 +1,30 @@
+{
+  "name": "glenn",
+  "version": "0.1.0",
+  "description": "glenn helps you make up your mind",
+  "bin": {
+    "glenn": "glenn.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasindal/glenn.git"
+  },
+  "keywords": [
+    "glenn",
+    "roll",
+    "random"
+  ],
+  "author": "Andreas Indal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreasindal/glenn/issues"
+  },
+  "homepage": "https://github.com/andreasindal/glenn#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "commander": "^2.9.0"
+  }
+}
