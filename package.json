@@ -5,9 +5,6 @@
   "bin": {
     "glenn": "glenn.js"
   },
-  "scripts": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andreasindal/glenn.git"
