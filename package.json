@@ -1,9 +1,9 @@
 {
   "name": "glenn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "glenn helps you make up your mind",
   "bin": {
-    "glenn": "glenn.js"
+    "glenn": "lib/glenn.js"
   },
   "repository": {
     "type": "git",
