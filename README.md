@@ -11,7 +11,7 @@ Then run:
 
 ## Usage:
 
-Because he’s is still quite young, and still thinks making decisions is kind of hard, there is currently only two ways of using glenn. However, give him some time, and he’ll surely prove himself to be a great companion.
+Because he’s is still quite young, and still thinks making decisions is kind of hard, there is currently only a few ways to use glenn. However, give him some time, and he’ll surely prove himself to be a great companion.
 
 ### Default (multiple values):
 
