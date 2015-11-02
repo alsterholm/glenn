@@ -1,6 +1,6 @@
 {
   "name": "glenn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "glenn helps you make up your mind",
   "bin": {
     "glenn": "lib/glenn.js"
