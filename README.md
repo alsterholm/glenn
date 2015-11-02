@@ -1,6 +1,6 @@
 # glenn
 
-glenn helps you make decisions.
+glenn helps you make up your mind
 
 ## Installation:
     $ npm install -g glenn
@@ -8,8 +8,6 @@ glenn helps you make decisions.
 Then run:
 
     $ glenn
-
----
 
 ## Usage:
 
@@ -44,12 +42,9 @@ Because he’s is still quite young, and still thinks making decisions is kind o
 
 [Check out the full change log.](https://github.com/andreasindal/glenn/blob/master/changelog.md)
 
-### 0.1.1
+### 0.1.2
 
-    * Added built-in randomizing of:
-        * Programming languages
-        * Frameworks
-        * World of Warcraft race/class combinations.
+    * Changed WoW-related stuff to lower case
 
 
 
